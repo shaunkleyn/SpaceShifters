@@ -6,3 +6,13 @@
 - Added Drivers to seperate sheet
 - Vlookup driver details
 - Added dropdown for drivers
+
+18 Feb 2018
+- Initial commit to Github: https://github.com/shaunkleyn/SpaceShifters
+- Added "Horses" data sheet
+- Added ability to set header / item type using "H:" on the new "Horses" sheet
+- Added Conditional formatting to style headers & items based on the "H:" type
+     - Use one "H:" to specify items
+     - Use two "H:" to specify a header ("H:H:" will show on the dashboard as a bold line, eg. "Zim" is a "H:H:")
+- Vlookup Horses details
+- Added dropdown to dashboard for Horses
