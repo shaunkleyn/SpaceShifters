@@ -1,0 +1,8 @@
+10 Feb 2018
+- Styled sheet
+- Formatted Dates
+- Added "Valid Days" formula
+- Added conditional formatting for "Valid Days"
+- Added Drivers to seperate sheet
+- Vlookup driver details
+- Added dropdown for drivers
