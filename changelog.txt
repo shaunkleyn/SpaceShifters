@@ -16,3 +16,5 @@
      - Use two "H:" to specify a header ("H:H:" will show on the dashboard as a bold line, eg. "Zim" is a "H:H:")
 - Vlookup Horses details
 - Added dropdown to dashboard for Horses
+- Added a help box to the Horses sheet
+- Created a "Macro Enabled" version of the workbook to allow VBA
